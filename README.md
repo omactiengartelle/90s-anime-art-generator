@@ -77,3 +77,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node 90sanimeartgenerator.js "1990s anime art style, retro OVA aesthetic, flat cel-shaded colors, vintage analog film grain, hand-drawn line art, soft pastel palette, nostalgic shoujo/seinen composition, expressive eyes, dramatic lighting, classic Japanese animation"
+```
+
+![Example output](https://oss.talesofai.cn/picture/d314e7c1-e338-46c6-8430-7f3da3160d02.webp)
+
+> Prompt: *"1990s anime art style, retro OVA aesthetic, flat cel-shaded colors, vintage analog film grain, hand-drawn line art, soft pastel palette, nostalgic shoujo/seinen composition, expressive eyes, dramatic lighting, classic Japanese animation"*
